@@ -11,6 +11,10 @@
   opacity: 0.7;
 }
 
+#logo{
+  width:30%;
+  margin: auto;
+}
 .img-circle {
     border-radius: 10%;
 }
