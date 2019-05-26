@@ -64,8 +64,30 @@
   b,strong {
     visibility: hidden;
   }
+  #logo {
+    width: 50%;
+  }
+   .navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 14px;
+    line-height: 20px;
+  }
 }
 
+@media (max-width: 570px){
+  .navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 12px;
+    line-height: 20px;
+  }
+  #logo {
+    width: 50%;
+  }
+}
 /*tour section styling*/
 .bg-1 {
   background-color: #2d2d30;;
