@@ -25,7 +25,7 @@
 }
 
 .col-sm-4 {
-    height: 33.33%;
+    height: auto;
 }
 
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
@@ -61,9 +61,7 @@
 
   height: auto;
   }
-  b,strong {
-    visibility: hidden;
-  }
+  
   #logo {
     width: 50%;
   }
