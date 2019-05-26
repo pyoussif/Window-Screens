@@ -47,6 +47,9 @@
   color: #fff !important;
 }
 
+.luxetitle {
+  font-weight: 200;
+}
 @media (max-width: 600px) {
   .carousel-caption {
     display: none;
