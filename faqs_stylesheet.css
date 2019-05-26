@@ -66,6 +66,7 @@
   
   #logo {
     width: 50%;
+    margin-top:30px;
   }
    .navbar-brand {
     float: left;
@@ -86,6 +87,8 @@
   }
   #logo {
     width: 40%;
+    margin-top:30px;
+
   }
 }
 /*tour section styling*/
