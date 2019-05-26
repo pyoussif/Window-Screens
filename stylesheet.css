@@ -47,8 +47,18 @@
   color: #fff !important;
 }
 
+.dropdown-menu li a {
+    color: #e80d0d !important;
+}
+
 .luxetitle {
   font-weight: 200;
+}
+
+.learnmore {
+  font-weight:bold;
+  color:red;
+  font-size: 25px;
 }
 @media (max-width: 600px) {
   .carousel-caption {
@@ -72,6 +82,9 @@
     font-size: 14px;
     line-height: 20px;
   }
+  .dropdown-menu li a {
+    color: #e80d0d !important;
+}
 }
 
 @media (max-width: 570px){
@@ -183,11 +196,11 @@
 }
 
 .dropdown-menu li a {
-  color: #000 !important;
+  color: red !important;
 }
 
 .dropdown-menu li a:hover {
-  background-color: red !important;
+  background-color: whitesmoke !important;
 }
 
 /*styling footer*/
