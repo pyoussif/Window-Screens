@@ -29,7 +29,7 @@
 }
 
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
-    height: 75%;
+    height: auto;
 }
 .person:hover {
   border-color: black;
